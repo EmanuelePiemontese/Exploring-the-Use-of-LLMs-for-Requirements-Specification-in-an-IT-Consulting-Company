@@ -1,7 +1,4 @@
-Ecco una versione migliorata del tuo README, con una struttura più chiara, un linguaggio più fluido e una presentazione più accattivante.  
-
----
-
+<p align="justify">
 # 📄 Appendix: Exploring the Use of LLMs for Requirements Specification in an IT Consulting Company  
 
 Welcome to the supplementary materials accompanying the paper:  
@@ -31,3 +28,4 @@ This repository includes:
  ┣ 📂 templates/       # Epic FDS template and related models  
  ┗ 📄 README.md        # This document  
 ```
+</p>
