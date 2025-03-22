@@ -7,12 +7,12 @@ Requirements Engineering (RE) is a fundamental process in software development, 
 
 
 This repository provides additional material, including:  
-- **Project workflow diagram**: a graphic representation of the different stages of the project.
-- **Project phase tables**: outline the different phases of the project, providing detailed information on the inputs, activities, and outputs of each phase.
-- **Epic FDS template**: model for creating Epic's Functional Design Specifications (FDS).
+- `Project workflow diagram`: a graphic representation of the different stages of the project.
+- `Project phase tables`: outline the different phases of the project, providing detailed information on the inputs, activities, and outputs of each phase.
+- `Epic FDS template`: model for creating Epic's Functional Design Specifications (FDS).
 - ...
 
 ## Repository Structure  
-- `[workflow](workflow/)` – contains the workflow diagram of the project.
+- [workflow](workflow/) – contains the workflow diagram of the project.
 - [phases](phases/) – contains tables describing the different stages of the project.  
 - `templates/` – contains the Epic FDS model.  
