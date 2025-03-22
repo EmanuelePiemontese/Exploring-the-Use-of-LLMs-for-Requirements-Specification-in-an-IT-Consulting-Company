@@ -15,18 +15,23 @@ The LLMs can help to automate and standardize the generation of documentation, r
 The findings of this study advocate for a synergistic approach where LLM serves as an effective drafting tool while human analysts provide the critical contextual and technical oversight necessary for high-quality RE documentation.
 </p>
 
+
 ## 📂 Contents  
 This repository includes:  
 ✅ **Project workflow diagram** – a visual representation of the different stages of the project.  
 ✅ **Project phase tables** – a structured breakdown of inputs, activities, and outputs for each phase.  
-✅ **Epic FDS template** – a model for creating Functional Design Specifications (FDS) for Epics.  
+✅ **User Story (US) Template (Jira)** – a structured format for defining user stories in JIRA.  
+✅ **Epic FDS Template (Confluence)** – for documenting Functional Design Specifications for Epics.  
+✅ **FDS Template (Confluence)** – for documenting Functional Design Specifications.  
 ✅ ...  
+
+
 
 ## 📁 Repository Structure  
 ```
 📦 repository-root
  ┣ 📂 workflow/        # Contains the project workflow diagram  
  ┣ 📂 phases/          # Tables detailing each project phase  
- ┣ 📂 templates/       # Epic FDS template and related models  
+ ┣ 📂 templates/       # User story, Epic FDS and FDS template
  ┗ 📄 README.md        # This document  
 ```
