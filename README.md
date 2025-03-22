@@ -18,7 +18,7 @@ The findings of this study advocate for a synergistic approach where LLM serves 
 
 ## 📂 Contents  
 This repository includes:  
-✅ **Project workflow diagram** – a visual representation of the different RE stages.  
+✅ **Project workflow diagram** – a visual representation of the different stages of the project.  
 ✅ **Project phase tables** – a structured breakdown of inputs, activities, and outputs for each phase.  
 ✅ **Epic FDS template** – a model for creating Functional Design Specifications (FDS) for Epics.  
 ✅ ...  
