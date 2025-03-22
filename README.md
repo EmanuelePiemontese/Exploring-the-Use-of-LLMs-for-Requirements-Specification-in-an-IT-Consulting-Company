@@ -13,6 +13,6 @@ This repository provides additional material, including:
 - ...
 
 ## Repository Structure  
-- `workflow/` – PDF file containing the workflow diagram of the project.
-- `phases/` – tables that describe the different stages of the project.  
+- [workflow](workflow/) – PDF file containing the workflow diagram of the project.
+- [phases](phases/) – tables that describe the different stages of the project.  
 - `templates/` – PDF file of the Epic FDS template.  
