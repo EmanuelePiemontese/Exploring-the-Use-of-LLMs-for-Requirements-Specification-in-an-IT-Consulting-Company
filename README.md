@@ -1,4 +1,4 @@
-# 📄 Appendix: Exploring the Use of LLMs for Requirements Specification in an IT Consulting Company  
+# Appendix: Exploring the Use of LLMs for Requirements Specification in an IT Consulting Company  
 
 Welcome to the supplementary materials accompanying the paper:  
 
