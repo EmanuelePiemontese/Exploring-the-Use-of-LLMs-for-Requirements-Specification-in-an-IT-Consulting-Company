@@ -26,7 +26,7 @@ This repository includes:
 ✅ **User Story (US) Template (Jira)** – A structured format for defining user stories in JIRA.  
 ✅ **Epic FDS Template (Confluence)** – For documenting Functional Design Specifications for Epics.  
 ✅ **FDS Template (Confluence)** – For documenting Functional Design Specifications.  
-✅ **Prompts** – Structured prompts and instructions for guiding LLMs in each step.
+✅ **Prompts** – Structured prompts and instructions for guiding LLMs in each step of the project.  
 ✅ ...  
 
 
