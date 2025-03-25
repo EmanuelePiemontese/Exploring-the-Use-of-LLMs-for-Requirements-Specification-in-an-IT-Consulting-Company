@@ -32,6 +32,11 @@ This repository includes:
 ```
 📦 repository-root
  ┣ 📂 workflow/        # Contains the project workflow diagram  
+ ┣ 📂 Prompts/                      
+ ┃ ┣ 📂 Step 1 Prompts/             # Contains prompts for Step 1 of the workflow
+ ┃ ┣ 📂 Step 2 Prompts/             # Contains prompts for Step 2 of the workflow
+ ┃ ┣ 📂 Step 3 Prompts/             # Contains prompts for Step 3 of the workflow
+ ┃ ┗ 📂 Step 4 Prompts/             # Contains prompts for Step 4 of the workflow
  ┣ 📂 phases/          # Tables detailing each project phase  
  ┣ 📂 templates/       # User story, Epic FDS and FDS template
  ┗ 📄 README.md        # This document  
