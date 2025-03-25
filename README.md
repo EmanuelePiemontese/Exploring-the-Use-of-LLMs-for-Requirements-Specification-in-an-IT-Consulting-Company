@@ -41,7 +41,7 @@ This repository includes:
  ┃ ┣ 📂 Step 3 Prompts/             # Contains prompts for Step 3 of the workflow
  ┃ ┗ 📂 Step 4 Prompts/             # Contains prompts for Step 4 of the workflow
  ┣ 📂 phases/                       # Tables detailing each project phase  
- ┣ 📂 templates/                    # Contains the different templates
+ ┣ 📂 templates/                    
  ┃ ┣ 📂 Fincons template/           # US, Epic FDS and FDS templates used by Fincons
  ┃ ┣ 📂 template provided to LLMs/  # US, Epic FDS and FDS templates provided to LLMs
  ┗ 📄 README.md                     # This document  
