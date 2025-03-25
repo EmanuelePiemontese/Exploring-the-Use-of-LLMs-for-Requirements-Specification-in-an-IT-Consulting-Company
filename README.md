@@ -23,7 +23,7 @@ This study advocates for a synergistic approach where LLM serves as an effective
 This repository includes:  
 ✅ **Project workflow diagram** – A visual representation of the different stages of the project.  
 ✅ **Project phase tables** – A structured breakdown of inputs, activities, and outputs for each phase.  
-✅ **User Story (US) Template (Jira)** – A structured format for defining user stories in JIRA.  
+✅ **User Story Template (Jira)** – A structured format for defining user stories in JIRA.  
 ✅ **Epic FDS Template (Confluence)** – For documenting Functional Design Specifications for Epics.  
 ✅ **FDS Template (Confluence)** – For documenting Functional Design Specifications.  
 ✅ **Prompts** – Structured prompts and instructions for guiding LLMs in each step of the project.  
@@ -41,6 +41,8 @@ This repository includes:
  ┃ ┣ 📂 Step 3 Prompts/             # Contains prompts for Step 3 of the workflow
  ┃ ┗ 📂 Step 4 Prompts/             # Contains prompts for Step 4 of the workflow
  ┣ 📂 phases/                       # Tables detailing each project phase  
- ┣ 📂 templates/                    # User story, Epic FDS and FDS template
+ ┣ 📂 templates/                    # Contains the different templates
+ ┃ ┣ 📂 Fincons template/           # US, Epic FDS and FDS templates used by Fincons
+ ┃ ┣ 📂 template provided to LLMs/  # US, Epic FDS and FDS templates provided to LLMs
  ┗ 📄 README.md                     # This document  
 ```
