@@ -32,10 +32,10 @@ Computational efficiency of the models assessed based on speed of generation, un
 Presented below are the input/output and total costs associated with each model in this experiment.
 
 <div style="display: flex; justify-content: center;">
-  <table style="width:100%; max-width: 800px;"> <!-- max-width limita la larghezza -->
+  <table style="width: 80%; max-width: 800px; margin: auto; text-align: center;">
     <tr>
       <td style="width:50%; vertical-align: top; padding-right: 20px;">
-        <table style="width:100%; text-align: center;">
+        <table style="width:100%; text-align: center; border-collapse: collapse;">
           <thead>
             <tr>
               <th colspan="3" style="text-align: center;">Costs of Each Model for 1000 Tokens</th>
