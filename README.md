@@ -31,44 +31,46 @@ Computational efficiency of the models assessed based on speed of generation, un
 
 Presented below are the input/output and total costs associated with each model in this experiment.
 
-<table style="width:100%;">
-  <tr>
-    <td style="width:50%; vertical-align: top; padding-right: 20px;">
-      <table style="width:100%; text-align: center;">
-        <thead>
-          <tr>
-            <th colspan="3" style="text-align: center;">Costs of Each Model for 1000 Tokens</th>
-          </tr>
-          <tr>
-            <th>Model</th>
-            <th>Input Cost</th>
-            <th>Output Cost</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>GPT3</td>
-            <td>0.0010</td>
-            <td>0.0019</td>
-          </tr>
-          <tr>
-            <td>GPT4</td>
-            <td>0.0047</td>
-            <td>0.0141</td>
-          </tr>
-          <tr>
-            <td>Llama</td>
-            <td>0.0034</td>
-            <td>0.0099</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td style="width:300px; text-align:center; vertical-align: top;">
-      <img src="miscellaneous/total_cost.png" alt="Total Cost" width="300px" style="max-width: 100%;"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <table style="width:100%; max-width: 800px;"> <!-- max-width limita la larghezza -->
+    <tr>
+      <td style="width:50%; vertical-align: top; padding-right: 20px;">
+        <table style="width:100%; text-align: center;">
+          <thead>
+            <tr>
+              <th colspan="3" style="text-align: center;">Costs of Each Model for 1000 Tokens</th>
+            </tr>
+            <tr>
+              <th>Model</th>
+              <th>Input Cost</th>
+              <th>Output Cost</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>GPT3</td>
+              <td>0.0010</td>
+              <td>0.0019</td>
+            </tr>
+            <tr>
+              <td>GPT4</td>
+              <td>0.0047</td>
+              <td>0.0141</td>
+            </tr>
+            <tr>
+              <td>Llama</td>
+              <td>0.0034</td>
+              <td>0.0099</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:300px; text-align:center; vertical-align: top;">
+        <img src="miscellaneous/total_cost.png" alt="Total Cost" width="300px" style="max-width: 100%;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 To conclude, GPT4 offers the highest accuracy and structured documentation but at a significantly higher cost, making it suitable for projects requiring minimal manual refinement. GPT3, although it’s cost-effective, suffers from redundancy, requiring substantial human intervention to refine outputs, which can offset its financial advantage. Llama, while more efficient in token usage, lacks technical depth, making it a viable choice for high-level summarization rather than detailed requirement specifications.
 </p>
@@ -83,6 +85,7 @@ This repository includes:
 ✅ **Epic FDS Template (Confluence)** – For documenting Functional Design Specifications for Epics.  
 ✅ **FDS Template (Confluence)** – For documenting Functional Design Specifications.  
 ✅ **Prompts** – Structured prompts and instructions for guiding LLMs in each step of the project.  
+✅ **Interview on LLM-generated documentation** - Feedback and evaluation of model-generated documents from the functional analyst's point of view.  
 ✅ ...  
 
 
@@ -90,6 +93,8 @@ This repository includes:
 ## 📁 Repository Structure  
 ```
 📦 repository-root
+ ┣ 📂 interview/                   
+ ┃ ┗ 🖊️ interview_results.md        # Contains the results of the interview with the analyst on the documentation generated
  ┣ 📂 workflow/                     # Contains the project workflow diagram  
  ┣ 📂 Prompts/                      
  ┃ ┣ 📂 Step 1 Prompts/             # Contains prompts for Step 1 of the workflow
