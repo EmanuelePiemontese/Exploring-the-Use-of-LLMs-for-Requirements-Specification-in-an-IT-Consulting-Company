@@ -95,8 +95,8 @@ This repository includes:
 ## 📁 Repository Structure  
 ```
 📦 repository-root
- ┣ 📂 interview/                   
- ┃ ┗ 🖊️ interview_results.md        # Contains the results of the interview with the analyst on the documentation generated
+ ┣ 📂 analyst interview/                   
+ ┃ ┗ analyst interview.pdf        # Contains the results of the interview with the analyst on the documentation generated
  ┣ 📂 workflow/                     # Contains the project workflow diagram  
  ┣ 📂 Prompts/                      
  ┃ ┣ 📂 Step 1 Prompts/             # Contains prompts for Step 1 of the workflow
