@@ -60,7 +60,7 @@ Presented below are the input/output and total costs associated with each model 
   
 </td>
 <td style="width:50%; text-align:center;">
-  <img src="miscellaneous/total_cost.png" alt="Total Cost" width="100%" style="max-width: 400px;"/>
+  <img src="miscellaneous/total_cost.png" alt="Total Cost" width="300px" style="max-width: 400px;"/>
 </td>
 
 <br>
