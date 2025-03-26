@@ -31,41 +31,38 @@ Computational efficiency of the models assessed based on speed of generation, un
 
 Presented below are the input/output and total costs associated with each model in this experiment.
 
-<div style="display:flex; flex-direction:column; width:100%; align-items:center;">
-    <div style="display:flex; flex-direction:row; width:100%; text-align:center;">
-        <h3 style="width:50%;max-width:500px">Cost for 1000 Tokens</h3>
-        <h3 style="width:50%;max-width:500px">Total Cost of Experiment</h3>
-    </div>
-    <div style="flex-direction: row; display:flex; align-items:center; width:100%">
-        <table style="width:50%; text-align:center; border:1px solid ;max-width:500px">
-            <thead>
-                <tr>
-                    <th style="text-align: center">Model</th>
-                    <th style="text-align: center">Input Cost</th>
-                    <th style="text-align: center">Output Cost</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>GPT3</td>
-                    <td>0.0010</td>
-                    <td>0.0019</td>
-                </tr>
-                <tr>
-                    <td>GPT4</td>
-                    <td>0.0047</td>
-                    <td>0.0141</td>
-                </tr>
-                <tr>
-                    <td>Llama</td>
-                    <td>0.0034</td>
-                    <td>0.0099</td>
-                </tr>
-            </tbody>
-        </table>
-        <img src="miscellaneous/total_cost.png" alt="total cost" style="height: auto; width:50%; max-width: 500px;"/>
-    </div>
-</div>
+  <table style="width:100%; border-collapse: collapse; text-align: center;">
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>Input Cost</th>
+        <th>Output Cost</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>GPT3</td>
+        <td>0.0010</td>
+        <td>0.0019</td>
+      </tr>
+      <tr>
+        <td>GPT4</td>
+        <td>0.0047</td>
+        <td>0.0141</td>
+      </tr>
+      <tr>
+        <td>Llama</td>
+        <td>0.0034</td>
+        <td>0.0099</td>
+      </tr>
+    </tbody>
+  </table>
+  
+</td>
+<td style="width:50%; text-align:center;">
+  <img src="miscellaneous/total_cost.png" alt="Total Cost" width="100%" style="max-width: 400px;"/>
+</td>
+
 <br>
 
 To conclude, GPT4 offers the highest accuracy and structured documentation but at a significantly higher cost, making it suitable for projects requiring minimal manual refinement. GPT3, although it’s cost-effective, suffers from redundancy, requiring substantial human intervention to refine outputs, which can offset its financial advantage. Llama, while more efficient in token usage, lacks technical depth, making it a viable choice for high-level summarization rather than detailed requirement specifications.
