@@ -77,7 +77,7 @@ Presented below are the input/output and total costs associated with each model 
 To conclude, GPT4 offers the highest accuracy and structured documentation but at a significantly higher cost, making it suitable for projects requiring minimal manual refinement. GPT3, although it’s cost-effective, suffers from redundancy, requiring substantial human intervention to refine outputs, which can offset its financial advantage. Llama, while more efficient in token usage, lacks technical depth, making it a viable choice for high-level summarization rather than detailed requirement specifications.
 </p>
 
-👉 For a detailed evaluation based on expert feedback and TAM analysis, see [Expert Feedback and TAM Evaluation](./Expert-Feedback-And-TAM-Evaluation.md).
+👉 For a detailed evaluation based on expert feedback and TAM analysis, see [Expert Feedback and TAM Evaluation](./Interview%20with%20Analyst/Expert-Feedback-And-TAM-Evaluation.md).
 
 
 <br>
@@ -99,19 +99,19 @@ This repository includes:
 ```
 📦 repository-root
  ┣ 📂 analyst interview/                   
- ┃ ┗ 📂 analyst interview.pdf             # Contains the results of the interview with the analyst on the documentation generated
- ┣ 📂 workflow/                           # Contains the project workflow diagram  
+ ┃ ┃ 📂 analyst interview.md                    # Contains the results of the interview with the analyst on the documentation generated
+ ┃ ┗ 📂 Expert-Feedback-And-TAM-Evaluation.md   # Details of TAM evaluation by experts          
+ ┣ 📂 workflow/                                 # Contains the project workflow diagram  
  ┣ 📂 Prompts/                      
- ┃ ┣ 📂 Step 1 Prompts/                   # Contains prompts for Step 1 of the workflow
- ┃ ┣ 📂 Step 2 Prompts/                   # Contains prompts for Step 2 of the workflow
- ┃ ┣ 📂 Step 3 Prompts/                   # Contains prompts for Step 3 of the workflow
- ┃ ┗ 📂 Step 4 Prompts/                   # Contains prompts for Step 4 of the workflow
- ┣ 📂 phases/                             # Tables detailing each project phase  
+ ┃ ┣ 📂 Step 1 Prompts/                         # Contains prompts for Step 1 of the workflow
+ ┃ ┣ 📂 Step 2 Prompts/                         # Contains prompts for Step 2 of the workflow
+ ┃ ┣ 📂 Step 3 Prompts/                         # Contains prompts for Step 3 of the workflow
+ ┃ ┗ 📂 Step 4 Prompts/                         # Contains prompts for Step 4 of the workflow
+ ┣ 📂 phases/                                   # Tables detailing each project phase  
  ┣ 📂 templates/                    
- ┃ ┣ 📂 Fincons template/                 # US, Epic FDS and FDS templates used by Fincons
- ┃ ┣ 📂 template provided to LLMs/        # US, Epic FDS and FDS templates provided to LLMs
- ┣ 📂 miscellaneous/                      # Contains miscellaneous files
- ┣ 📄 README.md                           # This document  
- ┗ 📄 Expert Feedback and TAM Evaluation  # Detail of expert evaluation
+ ┃ ┣ 📂 Fincons template/                       # US, Epic FDS and FDS templates used by Fincons
+ ┃ ┣ 📂 template provided to LLMs/              # US, Epic FDS and FDS templates provided to LLMs
+ ┣ 📂 miscellaneous/                            # Contains miscellaneous files
+ ┗ 📄 README.md                                 # This document  
 
 ```
