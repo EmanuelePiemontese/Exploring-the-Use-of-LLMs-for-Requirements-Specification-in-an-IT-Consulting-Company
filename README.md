@@ -99,8 +99,8 @@ This repository includes:
 ```
 📦 repository-root
  ┣ 📂 analyst interview/                   
- ┃ ┃ 📂 analyst interview.md                    # Contains the results of the interview with the analyst on the documentation generated
- ┃ ┗ 📂 Expert-Feedback-And-TAM-Evaluation.md   # Details of TAM evaluation by experts          
+ ┃ ┃ 📄 analyst interview.md                    # Contains the results of the interview with the analyst on the documentation generated
+ ┃ ┗ 📄 Expert-Feedback-And-TAM-Evaluation.md   # Details of TAM evaluation by experts          
  ┣ 📂 workflow/                                 # Contains the project workflow diagram  
  ┣ 📂 Prompts/                      
  ┃ ┣ 📂 Step 1 Prompts/                         # Contains prompts for Step 1 of the workflow
