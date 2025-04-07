@@ -10,6 +10,7 @@ This repository provides extended analyses, additional experimental results, and
 ## 📂 Contents  
 This repository includes:  
 ✅ **Efficiency and Cost Analysis** – Analysis of time and cost performance.  
+✅ **Docs generated** – Examples of documents generated with GPT4.
 ✅ **Templates** – Functional and user story templates used internally and shared with LLMs.  
 ✅ **Interview with Analyst** – Expert feedback and TAM evaluation.  
 ✅ **Project workflow diagram** – Visual representation of the overall process.  
@@ -22,6 +23,10 @@ This repository includes:
 📦 repository-root
  ┣ 📂 Efficiency and Cost Analysis
  ┃ ┗ 📄 Efficiency and Cost Analysis.md
+ ┣ 📂 GPT4-generated docs
+ ┃ ┣ 📄 FDS of the 1st User Story.pdf
+ ┃ ┗ 📄 Jira template of User Story 1.pdf
+ ┃ ┗ 📄 Template Epic FDS.pdf
  ┣ 📂 Interview with Analyst
  ┃ ┣ 📄 Analyst Interview.md
  ┃ ┗ 📄 Expert-Feedback-And-TAM-Evaluation.md
