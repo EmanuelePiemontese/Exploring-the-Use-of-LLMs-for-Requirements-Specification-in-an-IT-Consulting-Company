@@ -20,12 +20,13 @@ Presented below are the input/output and total costs associated with each model 
       <table style="width:100%; text-align: center;">
         <thead>
           <tr>
-            <th colspan="3" style="text-align: center;">Costs of Each Model for 1000 Tokens</th>
+            <th colspan="4" style="text-align: center;">Costs of Each Model for 1000 Tokens</th>
           </tr>
           <tr>
             <th>Model</th>
             <th>Input Cost</th>
             <th>Output Cost</th>
+            <th>Total Cost</th>
           </tr>
         </thead>
         <tbody>
@@ -33,16 +34,19 @@ Presented below are the input/output and total costs associated with each model 
             <td>GPT3</td>
             <td>0.0010</td>
             <td>0.0019</td>
-          </tr>
-          <tr>
-            <td>GPT4</td>
-            <td>0.0047</td>
-            <td>0.0141</td>
+            <td>3,60</td>
           </tr>
           <tr>
             <td>Llama</td>
             <td>0.0034</td>
             <td>0.0099</td>
+            <td>11,80</td>
+          </tr>
+          <tr>
+            <td>GPT4</td>
+            <td>0.0047</td>
+            <td>0.0141</td>
+            <td>24,80</td>
           </tr>
         </tbody>
       </table>
@@ -52,6 +56,7 @@ Presented below are the input/output and total costs associated with each model 
     </td>
   </tr>
 </table>
+
 
 <p align="justify">
 To conclude, GPT4 offers the highest accuracy and structured documentation but at a significantly higher cost, making it suitable for projects requiring minimal manual refinement. GPT3, although it’s cost-effective, suffers from redundancy, requiring substantial human intervention to refine outputs, which can offset its financial advantage. Llama, while more efficient in token usage, lacks technical depth, making it a viable choice for high-level summarization rather than detailed requirement specifications.
