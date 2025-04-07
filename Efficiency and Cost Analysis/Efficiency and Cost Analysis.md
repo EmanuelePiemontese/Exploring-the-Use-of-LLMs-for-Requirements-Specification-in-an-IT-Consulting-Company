@@ -32,21 +32,21 @@ Presented below are the input/output and total costs associated with each model 
         <tbody>
           <tr>
             <td style="padding: 8px; border: 1px solid #ccc;">GPT-3</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0010</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0019</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0029</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0010</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0019</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0029</td>
           </tr>
           <tr>
             <td style="padding: 8px; border: 1px solid #ccc;">LLaMA</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0034</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0099</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0133</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0034</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0099</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0133</td>
           </tr>
           <tr>
             <td style="padding: 8px; border: 1px solid #ccc;">GPT-4</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0047</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0141</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">$0.0188</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0047</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0141</td>
+            <td style="padding: 8px; border: 1px solid #ccc;">0.0188</td>
           </tr>
         </tbody>
       </table>
