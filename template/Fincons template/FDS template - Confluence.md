@@ -1,0 +1,51 @@
+# FDS Template - Confluence
+
+## Table of Contents
+
+- Change control
+- Table of Contents
+- Glossary
+- References
+- Executive summary
+- Overview / Background
+  - Scenarios
+  - Assumptions and dependencies
+- User requirements
+  - Use cases & Scenarios
+  - Business Rules
+  - Attributes
+  - User Journey
+    - Sketches / Wireframes
+    - Async UX
+    - Design System exceptions
+- Configuration requirements
+  - Use cases & Scenarios
+  - Business Rules
+  - Attributes
+  - User Journey
+    - Sketches / Wireframes
+    - Async UX
+    - Design System exceptions
+- Framework requirements
+  - Configurability
+    - Layout Management
+    - Custom ID
+    - Custom Fields
+    - Actions (State matrix)
+    - Dynamic Dates
+    - Search
+  - Data
+    - Vocabularies
+    - Dimensioning
+    - Delete
+  - Security
+    - Permissions
+    - Data partitioning
+  - Bulk operations
+  - Audit
+  - Notifications (events)
+  - Dashboard
+  - Reporting
+- User end to end test scenario
+  - Cross Use Cases / cross User Stories / cross Epics
+  - Traceability matrix
