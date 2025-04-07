@@ -14,44 +14,38 @@ Computational efficiency of the models assessed based on speed of generation, un
 Presented below are the input/output and total costs associated with each model in this experiment.
 
 
-<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
-  <tr>
-    <td style="width: 100%; vertical-align: top; padding: 10px;">
-      <table style="width: 100%; border: 1px solid #ccc; border-collapse: collapse; text-align: center;">
-        <thead style="background-color: #f2f2f2;">
-          <tr>
-            <th colspan="4" style="padding: 10px; border: 1px solid #ccc; font-size: 16px;">Costs of Each Model for 1000 Tokens</th>
-          </tr>
-          <tr>
-            <th style="padding: 8px; border: 1px solid #ccc;">Model</th>
-            <th style="padding: 8px; border: 1px solid #ccc;">Input Cost</th>
-            <th style="padding: 8px; border: 1px solid #ccc;">Output Cost</th>
-            <th style="padding: 8px; border: 1px solid #ccc;">Total Cost</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="padding: 8px; border: 1px solid #ccc;">GPT-3</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0010</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0019</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0029</td>
-          </tr>
-          <tr>
-            <td style="padding: 8px; border: 1px solid #ccc;">LLaMA</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0034</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0099</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0133</td>
-          </tr>
-          <tr>
-            <td style="padding: 8px; border: 1px solid #ccc;">GPT-4</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0047</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0141</td>
-            <td style="padding: 8px; border: 1px solid #ccc;">0.0188</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: center; border: 1px solid #ccc;">
+  <thead style="background-color: #f2f2f2;">
+    <tr>
+      <th colspan="4" style="padding: 10px; border: 1px solid #ccc; font-size: 16px;">Costs of Each Model for 1000 Tokens</th>
+    </tr>
+    <tr>
+      <th style="padding: 8px; border: 1px solid #ccc;">Model</th>
+      <th style="padding: 8px; border: 1px solid #ccc;">Input Cost</th>
+      <th style="padding: 8px; border: 1px solid #ccc;">Output Cost</th>
+      <th style="padding: 8px; border: 1px solid #ccc;">Total Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">GPT-3</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0010</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0019</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0029</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">LLaMA</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0034</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0099</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0133</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">GPT-4</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0047</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0141</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">0.0188</td>
+    </tr>
+  </tbody>
 </table>
 
 
