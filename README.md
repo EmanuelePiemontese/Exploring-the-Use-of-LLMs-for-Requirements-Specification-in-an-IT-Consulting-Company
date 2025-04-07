@@ -13,7 +13,6 @@ This repository includes:
 ✅ **Templates** – Functional and user story templates used internally and shared with LLMs.  
 ✅ **Interview with Analyst** – Expert feedback and TAM evaluation.  
 ✅ **Project workflow diagram** – Visual representation of the overall process.  
-✅ **Project phase diagrams** – Visuals outlining each project phase.  
 ✅ **Prompts** – Structured LLM prompts for each project step.  
 ✅ **Miscellaneous** – Additional resources used in the study.  
 
@@ -28,13 +27,6 @@ This repository includes:
  ┃ ┗ 📄 Expert-Feedback-And-TAM-Evaluation.md
  ┣ 📂 workflow
  ┃ ┗ 📄 Workflow.png
- ┣ 📂 phases
- ┃ ┣ 📄 Phase1.png
- ┃ ┣ 📄 Phase2.png
- ┃ ┣ 📄 Phase3.png
- ┃ ┣ 📄 Phase4.png
- ┃ ┣ 📄 Phase5.png
- ┃ ┗ 📄 Phase6.png
  ┣ 📂 Prompts
  ┃ ┣ 📂 Step 1 Prompts
  ┃ ┃ ┣ 📄 Prompt1.md
