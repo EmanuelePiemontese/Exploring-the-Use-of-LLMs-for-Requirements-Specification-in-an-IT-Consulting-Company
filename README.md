@@ -15,7 +15,6 @@ This repository includes:
 ✅ **Interview with Analyst** – Expert feedback and TAM evaluation.  
 ✅ **Project workflow diagram** – Visual representation of the overall process.  
 ✅ **Prompts** – Structured LLM prompts for each project step.  
-✅ **Miscellaneous** – Additional resources used in the study.  
 
 
 ## 📁 Repository Structure  
@@ -30,8 +29,6 @@ This repository includes:
  ┣ 📂 Interview with Analyst
  ┃ ┣ 📄 Analyst Interview.md
  ┃ ┗ 📄 Expert-Feedback-And-TAM-Evaluation.md
- ┣ 📂 workflow
- ┃ ┗ 📄 Workflow.png
  ┣ 📂 Prompts
  ┃ ┣ 📂 Step 1 Prompts
  ┃ ┃ ┣ 📄 Prompt1.md
@@ -53,8 +50,6 @@ This repository includes:
  ┃ ┗ 📂 templates provided to LLMs
  ┃ ┃ ┣ 📄 US template provided to LLMs (short version).md
  ┃ ┃ ┣ 📄 FDS template provided to LLMs (short version).md
- ┃ ┃ ┗ 📄 Epic FDS template provided to LLMs (short version).md
- ┣ 📂 miscellaneous
- ┃ ┗ 📄 total_cost.png
+ ┃ ┗ ┗ 📄 Epic FDS template provided to LLMs (short version).md
  ┗ 📄 README.md
 ```
