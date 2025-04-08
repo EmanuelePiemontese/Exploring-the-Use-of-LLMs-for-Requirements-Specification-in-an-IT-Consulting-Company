@@ -9,12 +9,12 @@
 ### 1. Rights In Contract List
 <p style="text-align: justify;">In this section, a contract is created by defining the right being acquired and registered within the system. A "rights in" contract can cover various types of content, such as episodes of a series or films.</p>
 
-![Crea Item - Content Type](dashboard/Crea%20Item%20-%20Content%20Type.png)
+![Crea Item - Content Type](dashboard/Rights%20In%20Contract%20List.png)
 
 ### 2. Create Item - Content Type
 <p style="text-align: justify;">To create a new catalog item, the process begins in the **"item"** section of the platform. Among the settings displayed in this section, there is a field called **"content type"** that allows specifying the type of content being managed (for example, series, season, film, format). This selection defines the nature of the catalog item for which the rights are being contracted.</p>
 
-![Create Item - Content Type](path/to/create-item-content-type-image.png)
+![Create Item - Content Type](dashboard/Crea%20Item%20-%20Content%20Type.png)
 
 ### 3. License Type
 <p style="text-align: justify;">On the platform, it is possible to select various types of periods that define the availability of rights. Here is a description:</p>
@@ -28,5 +28,5 @@
 
 <p style="text-align: justify;">These different types of periods can be combined, creating a series of complex scenarios and test cases for managing the availability of rights. The **"availability"** search takes these periods into account to show the actual availability of a right at a given moment.</p>
 
-![License Type](path/to/license-type-image.png)
+![License Type](dashboard/License%20Type.png)
 
