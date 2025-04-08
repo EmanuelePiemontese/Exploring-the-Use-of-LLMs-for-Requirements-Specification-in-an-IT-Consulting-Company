@@ -23,8 +23,11 @@ This repository includes:
  ┃ ┗ 📄 Efficiency and Cost Analysis.md
  ┣ 📂 GPT4-generated docs
  ┃ ┣ 📂 FDS of the 1st User Story
- ┃ ┗ 📂 Jira template of User Story 1
+ ┃ ┃ ┗ 📄 FDS_1.md
+ ┃ ┣ 📂 Jira template of User Story 1
+ ┃ ┃ ┗ 📄 User Story 1.md
  ┃ ┗ 📂 Template Epic FDS
+ ┃   ┗ 📄 Epic_1.md
  ┣ 📂 Interview with Analyst
  ┃ ┣ 📄 Analyst Interview.md
  ┃ ┗ 📄 Expert-Feedback-And-TAM-Evaluation.md
