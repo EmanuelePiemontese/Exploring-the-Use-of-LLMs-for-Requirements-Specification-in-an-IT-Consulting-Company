@@ -14,6 +14,7 @@ This repository includes:
 ✅ **Docs generated** – Examples of documents generated with GPT4.  
 ✅ **Interview with Analyst** – Expert feedback and TAM evaluation.  
 ✅ **Efficiency and Cost Analysis** – Analysis of time and cost performance.  
+✅ AllRights Overview – Description and features of the AllRights platform, including its functionality for managing digital rights, contracts, and content availability.  
 
 
 ## 📁 Repository Structure  
@@ -53,5 +54,11 @@ This repository includes:
  ┃ ┃ ┣ 📄 US template provided to LLMs (short version).md
  ┃ ┃ ┣ 📄 FDS template provided to LLMs (short version).md
  ┃ ┗ ┗ 📄 Epic FDS template provided to LLMs (short version).md
+ ┣ 📂 "All Rights" dashboard
+ ┃ ┗ 📄 all rights dashboard.md
+ ┃ ┣ 📂 dashboard
+ ┃ ┃ ┣ 📄 Crea Item - Content Type.png
+ ┃ ┃ ┣ 📄 License Type.png
+ ┃ ┃ ┗ 📄 Rights In Contract List.png
  ┗ 📄 README.md
 ```
