@@ -59,6 +59,6 @@ This repository includes:
  ┃ ┣ 📂 dashboard
  ┃ ┃ ┣ 📄 Crea Item - Content Type.png
  ┃ ┃ ┣ 📄 License Type.png
- ┃ ┃ ┗ 📄 Rights In Contract List.png
+ ┃ ┗ ┗ 📄 Rights In Contract List.png
  ┗ 📄 README.md
 ```
