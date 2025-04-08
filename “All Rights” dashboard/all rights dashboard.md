@@ -9,7 +9,7 @@
 ### 1. Rights In Contract List
 <p style="text-align: justify;">In this section, a contract is created by defining the right being acquired and registered within the system. A "rights in" contract can cover various types of content, such as episodes of a series or films.</p>
 
-![Rights In Contract List](“All Rights” dashboard/dashboard/Crea Item - Content Type.png)
+![Crea Item - Content Type](All%20Rights%20dashboard/dashboard/Crea%20Item%20-%20Content%20Type.png)
 
 ### 2. Create Item - Content Type
 <p style="text-align: justify;">To create a new catalog item, the process begins in the **"item"** section of the platform. Among the settings displayed in this section, there is a field called **"content type"** that allows specifying the type of content being managed (for example, series, season, film, format). This selection defines the nature of the catalog item for which the rights are being contracted.</p>
