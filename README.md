@@ -9,12 +9,11 @@ This repository provides extended analyses, additional experimental results, and
 
 ## 📂 Contents  
 This repository includes:  
-✅ **Efficiency and Cost Analysis** – Analysis of time and cost performance.  
-✅ **Docs generated** – Examples of documents generated with GPT4.  
 ✅ **Templates** – Functional and user story templates used internally and shared with LLMs.  
-✅ **Interview with Analyst** – Expert feedback and TAM evaluation.  
-✅ **Project workflow diagram** – Visual representation of the overall process.  
 ✅ **Prompts** – Structured LLM prompts for each project step.  
+✅ **Docs generated** – Examples of documents generated with GPT4.  
+✅ **Interview with Analyst** – Expert feedback and TAM evaluation.  
+✅ **Efficiency and Cost Analysis** – Analysis of time and cost performance.  
 
 
 ## 📁 Repository Structure  
