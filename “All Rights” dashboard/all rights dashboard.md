@@ -12,7 +12,7 @@ One of its key features is "Availability", which allows for managing the availab
 ![Crea Item - Content Type](dashboard/Rights%20In%20Contract%20List.png)
 
 ### 2. Create Item - Content Type
-<p style="text-align: justify;">To create a new catalog item, the process begins in the **"item"** section of the platform. Among the settings displayed in this section, there is a field called **"content type"** that allows specifying the type of content being managed (for example, series, season, film, format). This selection defines the nature of the catalog item for which the rights are being contracted.</p>
+<p style="text-align: justify;">To create a new catalog item, the process begins in the **"item"** section of the platform. Among the settings displayed in this section, there is a field called "content type" that allows specifying the type of content being managed (for example, series, season, film, format). This selection defines the nature of the catalog item for which the rights are being contracted.</p>
 
 ![Create Item - Content Type](dashboard/Crea%20Item%20-%20Content%20Type.png)
 
@@ -26,7 +26,7 @@ One of its key features is "Availability", which allows for managing the availab
   <li><strong>Legal Block</strong>: a restriction preventing the use of rights for legal reasons.</li>
 </ul>
 
-<p style="text-align: justify;">These different types of periods can be combined, creating a series of complex scenarios and test cases for managing the availability of rights. The **"availability"** search takes these periods into account to show the actual availability of a right at a given moment.</p>
+<p style="text-align: justify;">These different types of periods can be combined, creating a series of complex scenarios and test cases for managing the availability of rights. The "availability" search takes these periods into account to show the actual availability of a right at a given moment.</p>
 
 ![License Type](dashboard/License%20Type.png)
 
