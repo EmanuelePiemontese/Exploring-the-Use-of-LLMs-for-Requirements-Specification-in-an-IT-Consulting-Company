@@ -14,7 +14,7 @@ This repository includes:
 ✅ **Docs generated** – Examples of documents generated with GPT4.  
 ✅ **Interview with Analyst** – Expert feedback and TAM evaluation.  
 ✅ **Efficiency and Cost Analysis** – Analysis of time and cost performance.  
-✅ AllRights Overview – Description and features of the AllRights platform, including its functionality for managing digital rights, contracts, and content availability.  
+✅ **AllRights Overview** – Description and features of the AllRights platform, including its functionality for managing digital rights, contracts, and content availability.  
 
 
 ## 📁 Repository Structure  
