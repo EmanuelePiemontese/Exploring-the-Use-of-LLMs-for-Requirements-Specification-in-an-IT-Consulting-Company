@@ -1,7 +1,7 @@
 # AllRights
-<p>AllRights is a platform developed by **Fincons Group** for managing digital rights, designed to enhance the efficiency and monetization of multimedia content. It is a centralized and flexible solution that supports various types of media and languages, allowing easy integration with other systems. AllRights offers advanced tools for managing contracts, copyrights, workflows, and metadata, reducing manual work and optimizing business processes.</p>
-
-<p>One of its key features is "Availability", which allows for managing the availability of digital content across different platforms and territories, providing real-time monitoring of when and where content can be distributed or broadcasted, in accordance with licensing agreements. Additionally, Availability integrates alerts for the expiration of distribution windows and connects with other modules such as contract management and reporting.</p>
+<p>AllRights is a platform developed by Fincons Group for managing digital rights, designed to enhance the efficiency and monetization of multimedia content. It is a centralized and flexible solution that supports various types of media and languages, allowing easy integration with other systems. AllRights offers advanced tools for managing contracts, copyrights, workflows, and metadata, reducing manual work and optimizing business processes.
+One of its key features is "Availability", which allows for managing the availability of digital content across different platforms and territories, providing real-time monitoring of when and where content can be distributed or broadcasted, in accordance with licensing agreements. Additionally, Availability integrates alerts for the expiration of distribution windows and connects with other modules such as contract management and reporting.
+</p>
 
 
 ## AllRights Dashboard
