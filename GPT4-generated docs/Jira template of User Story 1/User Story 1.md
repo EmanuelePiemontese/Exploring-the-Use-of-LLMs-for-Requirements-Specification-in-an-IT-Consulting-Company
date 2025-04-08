@@ -1,4 +1,4 @@
-# Jira template of the 20 User Stories of generation 14
+# Jira template of the User Story n.1 of 14
 
 | **User Story 1: Search Availability by Exploitation Rights** |  |
 |- | - |
